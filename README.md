@@ -1,2 +1,2 @@
 # choremarket
-An app in progress
+To run, add your own GoogleServe-info.plist from firebase 
